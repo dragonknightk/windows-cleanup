@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows 软件审查与清理"
+  short_description: "查明软件和文件用途，分批审查清理影响，按选择完成卸载、残留处理与复查"
+  default_prompt: "使用 $windows-cleanup，帮我审查指定的软件或目录，解释用途、关联及清理影响，并根据我的选择进一步审查或处理。"

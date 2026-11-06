@@ -1,0 +1,19 @@
+# Session task records and local audit artifacts
+work/
+.work/
+test-output/
+test-fixtures/
+
+# Editor and IDE directories
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS and temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.swp
+*~
